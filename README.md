@@ -1,10 +1,10 @@
-# Notes Python Automate-the-Boring-Stuff
-Personal notes taken from the video lessons that accompany the book.
+# Python Automate-the-Boring-Stuff Notes
+Notes taken from the video series/lessons that accompany the book.
 ## Motivation
-I am new to programing, and wanted to experiment/learn some Python. I had this weird idea of trying to use some data science methods to show quality assurance metrics and automate some tests. My search results kept pointing me to Python as the language to learn for these two exercises. After reading many articles, tutorials and watching a lot of video lessons, I decided to go all in with this book. I didn't know (at that time) that this book is free to read online https://automatetheboringstuff.com/ and also has accompanying video lessons https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW .
+Wanted to experiment/learn some Python for programing and data science stuff. My search results kept pointing me to Python as the language to learn for these two exercises. After reading many articles, tutorials and watching a lot of video lessons, I decided to go all in and bought this book. I didn't know (at the time) that this book is free to read online https://automatetheboringstuff.com/ and also has accompanying video lessons https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW .
 
 ## Build status
-No real build to speak of, just some HTML pages.
+Nothing to build.
 
 ## Code style
 HTML 5 
@@ -19,7 +19,7 @@ Anaconda, Python 3, Jupyter Notebooks
 
 
 ## How to use?
-No installation required, these are my personal notes taken from watching the video lesson series. If you find any value in them feel free to download them... but my advice would be to follow the link provided above and **watch the lessons for yourself**… **buy the book and read it**….**code something in Python 3**  
+No installation required, these are my personal notes taken from watching the video lessons. If you find any value in them feel free to use them... but my advice would be to follow the links provided above and **watch the lessons for yourself**… **buy the book and read it**….**code something in Python**  
 
 
 ## Credits
